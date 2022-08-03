@@ -1,0 +1,427 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+.logo-section{
+
+	background-color: black;
+	height: 48px;
+}
+.center{
+
+	margin: 0px 100px;
+}
+.logo{
+
+}
+.logo img{
+
+	width: 5%;
+	float: left;
+	margin-top: -1px;
+}
+.logo nav{
+
+	margin-left: 12px;
+	margin-top: 11px;
+	display: inline-block;
+}
+.logo nav a{
+	
+	color: white;
+	text-decoration: none;
+	margin-left: 36px;
+}
+.logo1 a img{
+
+	float: right;
+	width: 31px;
+	margin-top: -19px;
+}
+.logo nav a:hover{
+	color: blue;
+}
+/*-----------para-section--------*/
+.para-section{
+
+}
+.para{
+
+}.para h2{
+
+	display: inline-block;
+	margin-top: 26px;
+}
+.para ul{
+
+	margin-left: 609px;
+	margin-top: -23px;
+}
+.para ul li{
+
+	display: inline-block;
+	margin-left: 35px;
+}
+.para ul li a{
+
+	text-decoration: none;
+}
+.para button{
+	
+	float: right;
+	margin-top: -24px;
+	padding: 6px 18px;
+	border: none;
+	background-color: skyblue;
+	border-radius: 18px;
+}
+.para button:hover{
+	color: red;
+	background-color: greenyellow;
+}
+/*----------banner-section-------*/
+.banner-section{
+
+}
+.banner{
+
+}
+.banner h5{
+
+	text-align: center;
+	font-size: 35px;
+	margin-top: 147px;
+	padding: 16px 0px;
+	display: inline-block;
+	margin-left: 440px;
+}
+.banner h1{
+
+	text-align: center;
+	font-size: 90px;
+}
+.banner1{
+	
+}
+.banner1 img{
+	
+	width: 100%;
+}
+/*----------------------banner1-section-------------*/
+.banner1-section{
+
+}
+.banner1{
+
+	text-align: center;
+}
+.banner1 h5{
+
+	font-size: 28px;
+	margin-top: 0px;
+	margin-left: -713px;
+	display: inline-block;
+}
+.banner1 h1{
+
+	float: left;
+	margin-left: 387px;
+	font-size: 97px;
+	margin-top: 29px;
+}
+.banner1 h2{
+
+	float: left;
+	margin-top: 57px;
+	margin-left: 23px;
+	font-size: 51px;
+	border: 3px solid black;
+	padding: 1px 5px;
+	border-radius: 21px;
+}
+.banner1 p{
+
+	margin-top: 122px;
+	font-size: 49px;
+	margin-left: 81px;
+}
+.banner1 nav{
+
+	margin-top: 17px;
+}
+.banner1 nav a{
+	
+	margin-left: 31px;
+	font-size: 20px;
+	text-decoration: none;
+}
+.ban1{
+
+}
+.ban1 img{
+	
+	width: 100%;
+	height: 470px;
+}
+/*--------------------------banner2-section---------------*/
+.banner2-section{
+background: url(images/ban.jpg) no-repeat;
+background-size: cover;
+background-position: center;
+height: 671px;
+}
+.banner2{
+
+}
+.banner2 h2{
+
+	color: white;
+	display: inline-block;
+	margin-top: 271px;
+	font-size: 80px;
+	margin-left: -290px;
+}
+.banner2 span{
+	
+	color: white;
+	font-size: 30px;
+	float: left;
+	margin-top: 379px;
+}
+.banner2 nav{
+
+	margin-top: 75px;
+}
+.banner2 nav a{
+	
+	margin-left: 51px;
+	text-decoration: none;
+	color: blueviolet;
+	font-size: 20px;
+}
+
+/*--------------------------------image-section----------*/
+.image-section{
+
+}
+.image{
+
+	margin-top: 30px;
+	float: left;
+	}
+.image h1{
+
+	
+	display: inline-block;
+	font-size: 43px;
+	margin-left: 115px;
+}
+.image p{
+
+	
+	font-size: 20px;
+	margin-top: 14px;
+	margin-left: 87px;
+}
+.image nav{
+
+	
+	margin-left: 96px;
+	margin-top: 21px;
+}
+.image nav a{
+
+	
+	text-decoration: none;
+	margin-left: 18px;
+	font-size: 20px;
+}
+.image img{
+	
+	margin-left: 54px;
+	margin-top: 30px;
+}
+	
+
+
+/*---------------------------------image1---------------*/
+.image1{
+
+	margin-top: 19px;
+	display: inline-block;
+	margin-left: 250px;
+}
+.image1 h1{
+
+	display: inline-block;
+	font-size: 50px;
+	margin-left: 46px;
+}
+.image1 p{
+
+	font-size: 20px;
+	margin-top: 17px;
+}
+.image1 nav{
+
+	margin-top: 14px;
+}
+.image1 nav a{
+
+	text-decoration: none;
+	margin-left: 29px;
+	font-size: 17px;
+}
+.image1 img{
+
+	margin-top: 23px;
+}
+/*-------------------------image2--------------*/
+.image2{
+
+	margin-top: 23px;
+	display: inline-block;
+	margin-left: 622px;
+}
+.image2 h1{
+
+	display: inline-block;
+	font-size: 50px;
+}
+.image2 p{
+
+	margin-top: 11px;
+	margin-left: 30px;
+	font-size: 30px;
+}
+.image2 nav{
+
+	margin-top: 21px;
+}
+.image2 nav a{
+
+	text-decoration: none;
+	margin-left: 23px;
+	font-size: 20px;
+}
+.image2 img{
+	
+	margin-top: 30px;
+}
+/*---------------------------image3--------------*/
+.image3{
+
+	margin-top: -345px;
+	margin-left: 96px;
+}
+.image3 h1{
+
+	display: inline-block;
+	font-size: 50px;
+}
+.image3 p{
+
+	font-size: 30px;
+	margin-left: 14px;
+	margin-top: 8px;
+}
+.image3 nav{
+
+	margin-top: 20px;
+	font-size: 20px;
+}
+.image3 nav a{
+
+	text-decoration: none;
+	margin-left: 30px;
+}
+.image3 img{
+	
+	margin-top: 30px;
+	margin-left: -20px;
+}
+/*---------------------image4-----------*/
+.image4{
+
+}
+.image4 h1{
+
+	margin-left: 334px;
+	margin-top: 30px;
+	font-size: 80px;
+}
+.image4 img{
+	
+	width: 60%;
+	margin-left: 170px;
+}
+/*------------------------footer-section-----------*/
+.footer-section{
+
+	background-color: gray;
+	opacity: 0.6;
+	height: 731px;
+}
+.footer{
+
+	margin-top: 0px;
+}
+.footer p{
+	
+	margin-top: 29px;
+	display: inline-block;
+}
+.footer1{
+
+	float: left;
+	margin-left: 70px;
+}
+.footer1 h5{
+
+	font-size: 19px;
+	margin-top: 20px;
+}
+.footer1 ul{
+
+}
+.footer1 ul li{
+
+	list-style: none;
+	line-height: 31px;
+}
+.footer1 ul li a{
+	
+	text-decoration: none;
+	color: white;
+}
+.final{
+
+}
+.final span{
+
+	display: inline-block;
+	margin-top: 33px;
+}
+.final p{
+
+	float: left;
+}
+.final nav{
+
+}
+.final nav a{
+
+	margin-left: 20px;
+	color: white;
+	text-decoration: none;
+}
+.final h6{
+	
+	float: right;
+	font-size: 20px;
+	margin-top: -21px;
+}
